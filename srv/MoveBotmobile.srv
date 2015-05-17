@@ -1,0 +1,6 @@
+string cmd
+float32 time
+int8 vel
+bool wait
+---
+bool resp

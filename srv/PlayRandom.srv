@@ -1,0 +1,4 @@
+string asset
+---
+int32 pid
+bool result

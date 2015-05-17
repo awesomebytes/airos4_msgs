@@ -1,0 +1,14 @@
+#float32 position
+#string servo
+#float32 time
+#string type	#absolute, relative
+#bool wait
+
+float32 position
+int8 servo
+float32 secs
+int8 type	
+bool async
+---
+bool response
+

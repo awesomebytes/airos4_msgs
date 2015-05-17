@@ -1,0 +1,6 @@
+int8 servo
+float32 position
+float32 time
+---
+bool result
+
